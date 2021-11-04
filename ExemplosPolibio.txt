@@ -1,0 +1,23 @@
+Entradas:
+joao marcos  
+maria eduarda
+beatriz 
+wemerson
+ifpb campus esperanca
+polibio
+seguranca
+vscode
+javascript
+nodejs
+
+Saídas:
+25 35 11 35 33 11 42 13 35 43
+33 11 42 24 11 15 14 45 11 42 14 11 
+12 15 11 44 42 24 55
+52 15 33 15 42 43 35 34
+24 21 41 12 13 11 33 41 45 43 15 43 41 15 42 11 34 13 11
+41 35 32 24 12 24 35 
+43 15 22 45 42 11 34 13 11
+51 43 13 35 14 15 
+25 11 51 11 43 13 42 24 41 44
+34 35 14 15 25 43 
